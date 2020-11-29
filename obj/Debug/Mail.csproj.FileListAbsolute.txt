@@ -1,0 +1,12 @@
+C:\Users\Ivan\source\repos\Mail\Mail\bin\Debug\Mail.exe.config
+C:\Users\Ivan\source\repos\Mail\Mail\bin\Debug\Mail.exe
+C:\Users\Ivan\source\repos\Mail\Mail\bin\Debug\Mail.pdb
+C:\Users\Ivan\source\repos\Mail\Mail\bin\Debug\EASendMail.dll
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.frmGlavna.resources
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.csproj.CopyComplete
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.exe
+C:\Users\Ivan\source\repos\Mail\Mail\obj\Debug\Mail.pdb
